@@ -5,6 +5,10 @@ if (name === "Susan") {
 lesl} else {
   console.log("Expect the name to be Susan") {
   }
+  
+'nodejs index.js'
+
+  
 
 
 
